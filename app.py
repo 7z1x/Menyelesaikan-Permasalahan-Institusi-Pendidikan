@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import joblib
 
-# --- PEMETAAN KODE KE TEKS (BERDASARKAN DESKRIPSI) ---
-# Ini akan digunakan untuk membuat menu dropdown yang ramah pengguna.
+st.set_page_config(page_title="Student Status Prediction", layout="wide")
+
 yes_no_map = {'Yes': 1, 'No': 0}
 marital_status_map = {'Single': 1, 'Married': 2, 'Widower': 3, 'Divorced': 4, 'Facto Union': 5, 'Legally Separated': 6}
 application_mode_map = {
@@ -52,11 +52,9 @@ except FileNotFoundError:
     st.stop()
 
 # --- ANTARMUKA STREAMLIT ---
-st.set_page_config(page_title="Student Status Prediction", layout="wide")
 st.title('🎓 Student Graduation Status Prediction Prototype')
 st.write("This application predicts a student's graduation status. Please fill out the form below with the relevant data.")
 
-# --- FORM INPUT (LABEL YANG SUDAH DIRAPIKAN) ---
 with st.form("prediction_form"):
     
     st.header("Personal & Application Information")
