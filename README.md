@@ -1,14 +1,5 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Institusi Pendidikan
 
-📁 **Repository:** [`ProyekAkhir-MenyelesaikanPermasalahanInstitusiPendidikan`](https://github.com/ZidanAlfarizaPutraPratama/ProyekAkhir-MenyelesaikanPermasalahanInstitusiPendidikan)
-
-![Python](https://img.shields.io/badge/python-3.10-blue?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Metabase](https://img.shields.io/badge/Metabase-5D47B4?style=flat&logo=metabase&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-FF6F61?style=flat&logo=databricks&logoColor=white)
-
 ## Business Understanding
 
 Jaya Jaya Institut adalah sebuah institusi pendidikan berbasis teknologi (edutech) yang mengalami permasalahan dalam mempertahankan siswanya. Terjadi peningkatan signifikan dalam jumlah siswa yang mengalami dropout dari tahun ke tahun. Untuk itu, dibutuhkan sebuah sistem yang mampu memprediksi siswa mana yang berpotensi dropout agar pihak institusi dapat mengambil tindakan preventif lebih awal.
@@ -107,7 +98,7 @@ Sistem prototype ini dibangun menggunakan Streamlit dan dapat digunakan oleh pih
 
 Anda juga bisa langsung mencoba prototipe tanpa menginstal apa pun melalui link berikut:
 
-🌐 [DropoutPrototype.streamlit.app](https://proyekakhir-menyelesaikanpermasalahaninstitusipendidikan.streamlit.app/)
+🌐 [DropoutPrototype.streamlit.app](https://drop-out-predict.streamlit.app/)
 
 ---
 
