@@ -89,6 +89,10 @@ Berikut adalah beberapa contoh tampilan dasbor yang memberikan wawasan kunci:
   
   ![zulfahmi17z_dashboard(4)](https://github.com/user-attachments/assets/d4f8fd97-17c3-4a67-9254-33c2db5a8a35)
 
+
+### Video Penjelasan : 
+[Tonton di Google Drive](https://drive.google.com/file/d/1tGv-VZaOavT4nUHSdPltAfbsRvWfl0Oy/view?usp=drive_link)
+
 ---
 
 ## 🚀 Menjalankan Sistem Machine Learning
